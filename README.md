@@ -1,2 +1,3 @@
 # Qt-Project
-some 
+some qt-project
+maybe use mysql?. i dt know
